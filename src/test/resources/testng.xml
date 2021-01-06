@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Deck Of Cards API">
+    <listeners>
+        <listener class-name="com.deckofcardsapi.utils.TestListener" />
+    </listeners>
+    <test verbose="2" name="endpoints /api/deck">
+        <classes>
+            <class name="com.deckofcardsapi.tests.Test_001_DeckEndpoints"/>
+        </classes>
+    </test>
+</suite>

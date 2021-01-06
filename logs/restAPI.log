@@ -1,0 +1,821 @@
+2021-01-06 14:00:18 INFO  Deck Of API:26 - Start Test_001_DeckEndpoints
+2021-01-06 14:00:18 INFO  Deck Of API:27 - Configure base URI and base path
+2021-01-06 14:00:18 INFO  Deck Of API:36 - Start Setup method
+2021-01-06 14:00:20 INFO  Deck Of API:36 - Start Setup method
+2021-01-06 14:00:20 INFO  Deck Of API:36 - Start Setup method
+2021-01-06 14:00:21 INFO  Deck Of API:36 - Start Setup method
+2021-01-06 14:00:21 INFO  Deck Of API:36 - Start Setup method
+2021-01-06 14:00:21 INFO  Deck Of API:36 - Start Setup method
+2021-01-06 14:25:19 INFO  Test_001_DeckEndpoints:28 - Start Test_001_DeckEndpoints
+2021-01-06 14:25:19 INFO  Test_001_DeckEndpoints:29 - Configure base URI and base path
+2021-01-06 14:25:19 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:21 INFO  Test_001_DeckEndpoints:44 - Opened deck is 61tpx6da0d8k
+2021-01-06 14:25:21 INFO  TestListener:39 - Start test: testDrawCardMultiTimes
+2021-01-06 14:25:21 INFO  TestListener:52 - Test testDrawCardMultiTimes is FAILED
+2021-01-06 14:25:21 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:21 INFO  Test_001_DeckEndpoints:44 - Opened deck is e1jpmcu1mbsx
+2021-01-06 14:25:21 INFO  TestListener:39 - Start test: testDrawCardWithoutParams
+2021-01-06 14:25:21 INFO  TestListener:45 - Test testDrawCardWithoutParams is PASSED
+2021-01-06 14:25:21 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:22 INFO  Test_001_DeckEndpoints:44 - Opened deck is ik3epqmx32tn
+2021-01-06 14:25:22 INFO  TestListener:39 - Start test: testDrawOneOrMultiCards
+2021-01-06 14:25:22 INFO  Test_001_DeckEndpoints:59 - Start testDrawOneOrMultiCards
+2021-01-06 14:25:22 INFO  TestListener:45 - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:25:22 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:22 INFO  Test_001_DeckEndpoints:44 - Opened deck is 4pjjptazwu2o
+2021-01-06 14:25:22 INFO  TestListener:39 - Start test: testDrawOneOrMultiCards
+2021-01-06 14:25:22 INFO  Test_001_DeckEndpoints:59 - Start testDrawOneOrMultiCards
+2021-01-06 14:25:22 INFO  TestListener:45 - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:25:22 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:22 INFO  Test_001_DeckEndpoints:44 - Opened deck is ton08a2tlaro
+2021-01-06 14:25:22 INFO  TestListener:39 - Start test: testDrawOneOrMultiCards
+2021-01-06 14:25:22 INFO  Test_001_DeckEndpoints:59 - Start testDrawOneOrMultiCards
+2021-01-06 14:25:23 INFO  TestListener:45 - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:25:23 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:23 INFO  Test_001_DeckEndpoints:44 - Opened deck is 4lz7lcwc0kzw
+2021-01-06 14:25:23 INFO  TestListener:39 - Start test: testDrawOneOrMultiCards
+2021-01-06 14:25:23 INFO  Test_001_DeckEndpoints:59 - Start testDrawOneOrMultiCards
+2021-01-06 14:25:23 INFO  TestListener:52 - Test testDrawOneOrMultiCards is FAILED
+2021-01-06 14:25:28 INFO  Test_001_DeckEndpoints:28 - Start Test_001_DeckEndpoints
+2021-01-06 14:25:28 INFO  Test_001_DeckEndpoints:29 - Configure base URI and base path
+2021-01-06 14:25:29 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:30 INFO  Test_001_DeckEndpoints:44 - Opened deck is 2grk7eojb88c
+2021-01-06 14:25:30 INFO  TestListener:39 - Start test: testDrawCardMultiTimes
+2021-01-06 14:25:30 INFO  TestListener:52 - Test testDrawCardMultiTimes is FAILED
+2021-01-06 14:25:30 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:31 INFO  Test_001_DeckEndpoints:44 - Opened deck is 4t33m96d4n0h
+2021-01-06 14:25:31 INFO  TestListener:39 - Start test: testDrawCardWithoutParams
+2021-01-06 14:25:31 INFO  TestListener:45 - Test testDrawCardWithoutParams is PASSED
+2021-01-06 14:25:31 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:31 INFO  Test_001_DeckEndpoints:44 - Opened deck is 3c89agz6aow4
+2021-01-06 14:25:31 INFO  TestListener:39 - Start test: testDrawOneOrMultiCards
+2021-01-06 14:25:31 INFO  Test_001_DeckEndpoints:59 - Start testDrawOneOrMultiCards
+2021-01-06 14:25:31 INFO  TestListener:45 - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:25:31 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:31 INFO  Test_001_DeckEndpoints:44 - Opened deck is 2o845kiu2k2z
+2021-01-06 14:25:31 INFO  TestListener:39 - Start test: testDrawOneOrMultiCards
+2021-01-06 14:25:31 INFO  Test_001_DeckEndpoints:59 - Start testDrawOneOrMultiCards
+2021-01-06 14:25:31 INFO  TestListener:45 - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:25:31 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:32 INFO  Test_001_DeckEndpoints:44 - Opened deck is o9p8tlqa3sxv
+2021-01-06 14:25:32 INFO  TestListener:39 - Start test: testDrawOneOrMultiCards
+2021-01-06 14:25:32 INFO  Test_001_DeckEndpoints:59 - Start testDrawOneOrMultiCards
+2021-01-06 14:25:32 INFO  TestListener:52 - Test testDrawOneOrMultiCards is FAILED
+2021-01-06 14:25:32 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:32 INFO  Test_001_DeckEndpoints:44 - Opened deck is cm0yfjgpbt6e
+2021-01-06 14:25:32 INFO  TestListener:39 - Start test: testDrawOneOrMultiCards
+2021-01-06 14:25:32 INFO  Test_001_DeckEndpoints:59 - Start testDrawOneOrMultiCards
+2021-01-06 14:25:32 INFO  TestListener:52 - Test testDrawOneOrMultiCards is FAILED
+2021-01-06 14:25:39 INFO  Test_001_DeckEndpoints:28 - Start Test_001_DeckEndpoints
+2021-01-06 14:25:39 INFO  Test_001_DeckEndpoints:29 - Configure base URI and base path
+2021-01-06 14:25:39 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:41 INFO  Test_001_DeckEndpoints:44 - Opened deck is invr0yw3puxx
+2021-01-06 14:25:41 INFO  TestListener:39 - Start test: testDrawCardMultiTimes
+2021-01-06 14:25:41 INFO  TestListener:45 - Test testDrawCardMultiTimes is PASSED
+2021-01-06 14:25:41 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:41 INFO  Test_001_DeckEndpoints:44 - Opened deck is 8nmuxvp9er2z
+2021-01-06 14:25:41 INFO  TestListener:39 - Start test: testDrawCardWithoutParams
+2021-01-06 14:25:42 INFO  TestListener:52 - Test testDrawCardWithoutParams is FAILED
+2021-01-06 14:25:42 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:42 INFO  Test_001_DeckEndpoints:44 - Opened deck is o8uqjo9wnr49
+2021-01-06 14:25:42 INFO  TestListener:39 - Start test: testDrawOneOrMultiCards
+2021-01-06 14:25:42 INFO  Test_001_DeckEndpoints:59 - Start testDrawOneOrMultiCards
+2021-01-06 14:25:42 INFO  TestListener:52 - Test testDrawOneOrMultiCards is FAILED
+2021-01-06 14:25:42 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:42 INFO  Test_001_DeckEndpoints:44 - Opened deck is 91vga3brj8gv
+2021-01-06 14:25:42 INFO  TestListener:39 - Start test: testDrawOneOrMultiCards
+2021-01-06 14:25:42 INFO  Test_001_DeckEndpoints:59 - Start testDrawOneOrMultiCards
+2021-01-06 14:25:42 INFO  TestListener:45 - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:25:42 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:42 INFO  Test_001_DeckEndpoints:44 - Opened deck is xjnx5fgm99jh
+2021-01-06 14:25:42 INFO  TestListener:39 - Start test: testDrawOneOrMultiCards
+2021-01-06 14:25:42 INFO  Test_001_DeckEndpoints:59 - Start testDrawOneOrMultiCards
+2021-01-06 14:25:43 INFO  TestListener:45 - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:25:43 INFO  Test_001_DeckEndpoints:38 - Open new deck
+2021-01-06 14:25:43 INFO  Test_001_DeckEndpoints:44 - Opened deck is vwqe60zbdxuq
+2021-01-06 14:25:43 INFO  TestListener:39 - Start test: testDrawOneOrMultiCards
+2021-01-06 14:25:43 INFO  Test_001_DeckEndpoints:59 - Start testDrawOneOrMultiCards
+2021-01-06 14:25:43 INFO  TestListener:52 - Test testDrawOneOrMultiCards is FAILED
+2021-01-06 14:29:13 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 14:29:13 INFO   - Configure base URI and base path
+2021-01-06 14:29:13 INFO   - Open new deck
+2021-01-06 14:29:15 INFO   - Opened deck is r2gvksr6vhg0
+2021-01-06 14:29:15 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 14:29:15 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 14:29:15 INFO   - Open new deck
+2021-01-06 14:29:15 INFO   - Opened deck is rqci20inh5vn
+2021-01-06 14:29:15 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 14:29:16 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 14:29:16 INFO   - Open new deck
+2021-01-06 14:29:16 INFO   - Opened deck is a38ean6q8hzt
+2021-01-06 14:29:16 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 14:29:16 INFO   - Start testDrawOneOrMultiCards
+2021-01-06 14:29:16 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:29:16 INFO   - Open new deck
+2021-01-06 14:29:16 INFO   - Opened deck is vk5gar5gflej
+2021-01-06 14:29:16 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 14:29:16 INFO   - Start testDrawOneOrMultiCards
+2021-01-06 14:29:16 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:29:16 INFO   - Open new deck
+2021-01-06 14:29:16 INFO   - Opened deck is qq8btpv1cyug
+2021-01-06 14:29:16 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 14:29:16 INFO   - Start testDrawOneOrMultiCards
+2021-01-06 14:29:17 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:29:17 INFO   - Open new deck
+2021-01-06 14:29:17 INFO   - Opened deck is fl62caoe90j2
+2021-01-06 14:29:17 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 14:29:17 INFO   - Start testDrawOneOrMultiCards
+2021-01-06 14:29:17 INFO   - Test testDrawOneOrMultiCards is FAILED
+2021-01-06 14:30:48 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 14:30:48 INFO   - Configure base URI and base path
+2021-01-06 14:30:49 INFO   - Opening a new deck
+2021-01-06 14:30:50 INFO   - Opened deck is kgo4kw93hj20
+2021-01-06 14:30:50 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 14:30:51 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 14:30:51 INFO   - Opening a new deck
+2021-01-06 14:30:51 INFO   - Opened deck is d1g7e4j3pbmp
+2021-01-06 14:30:51 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 14:30:51 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 14:30:51 INFO   - Opening a new deck
+2021-01-06 14:30:51 INFO   - Opened deck is z8jw9wq1c11h
+2021-01-06 14:30:51 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 14:30:52 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:30:52 INFO   - Opening a new deck
+2021-01-06 14:30:52 INFO   - Opened deck is wf0r8x190sb6
+2021-01-06 14:30:52 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 14:30:52 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:30:52 INFO   - Opening a new deck
+2021-01-06 14:30:52 INFO   - Opened deck is 84v6ry1wojgy
+2021-01-06 14:30:52 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 14:30:52 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:30:52 INFO   - Opening a new deck
+2021-01-06 14:30:52 INFO   - Opened deck is csl9uvk1rej1
+2021-01-06 14:30:52 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 14:30:52 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:31:59 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 14:31:59 INFO   - Configure base URI and base path
+2021-01-06 14:31:59 INFO   - Opening a new deck
+2021-01-06 14:32:00 INFO   - Opened deck is k035a48rkfiz
+2021-01-06 14:32:00 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 14:32:01 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 14:32:01 INFO   - Opening a new deck
+2021-01-06 14:32:01 INFO   - Opened deck is ipy0xrz14792
+2021-01-06 14:32:01 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 14:32:01 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 14:32:01 INFO   - Opening a new deck
+2021-01-06 14:32:01 INFO   - Opened deck is lcg3f9ed54d3
+2021-01-06 14:32:01 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 14:32:02 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:32:02 INFO   - Opening a new deck
+2021-01-06 14:32:02 INFO   - Opened deck is 3xz0u0nwp5fo
+2021-01-06 14:32:02 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 14:32:02 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:32:02 INFO   - Opening a new deck
+2021-01-06 14:32:02 INFO   - Opened deck is nf9bbr7s1uto
+2021-01-06 14:32:02 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 14:32:02 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:32:02 INFO   - Opening a new deck
+2021-01-06 14:32:02 INFO   - Opened deck is 2b1312lsdopx
+2021-01-06 14:32:02 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 14:32:03 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 14:58:31 INFO   - Test testDrawCardMultiTimes is SKIPPED
+2021-01-06 14:58:31 INFO   - Test testDrawCardWithoutParams is SKIPPED
+2021-01-06 14:58:31 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 14:58:31 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 14:58:31 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 14:58:31 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 14:58:51 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 14:58:51 INFO   - Configure base URI and base path
+2021-01-06 14:58:51 INFO   - Opening a new deck
+2021-01-06 14:58:51 INFO   - Test testDrawCardMultiTimes is SKIPPED
+2021-01-06 14:58:51 INFO   - Test testDrawCardWithoutParams is SKIPPED
+2021-01-06 14:58:51 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 14:58:51 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 14:58:51 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 14:58:51 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:00:02 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:00:02 INFO   - Configure base URI and base path
+2021-01-06 15:00:02 INFO   - Opening a new deck
+2021-01-06 15:00:02 INFO   - Test testDrawCardMultiTimes is SKIPPED
+2021-01-06 15:00:02 INFO   - Test testDrawCardWithoutParams is SKIPPED
+2021-01-06 15:00:02 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:00:02 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:00:02 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:00:02 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:00:52 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:00:52 INFO   - Configure base URI and base path
+2021-01-06 15:00:52 INFO   - Opening a new deck
+2021-01-06 15:00:52 INFO   - Test testDrawCardMultiTimes is SKIPPED
+2021-01-06 15:00:52 INFO   - Test testDrawCardWithoutParams is SKIPPED
+2021-01-06 15:00:52 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:00:52 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:00:52 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:00:52 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:01:31 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:01:31 INFO   - Configure base URI and base path
+2021-01-06 15:01:31 INFO   - Opening a new deck
+2021-01-06 15:01:36 INFO   - Test testDrawCardMultiTimes is SKIPPED
+2021-01-06 15:01:36 INFO   - Test testDrawCardWithoutParams is SKIPPED
+2021-01-06 15:01:36 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:01:36 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:01:36 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:01:36 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:02:02 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:02:02 INFO   - Configure base URI and base path
+2021-01-06 15:02:10 INFO   - Opening a new deck
+2021-01-06 15:03:09 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:03:09 INFO   - Configure base URI and base path
+2021-01-06 15:03:09 INFO   - Opening a new deck
+2021-01-06 15:03:14 INFO   - Test testDrawCardMultiTimes is SKIPPED
+2021-01-06 15:03:14 INFO   - Test testDrawCardWithoutParams is SKIPPED
+2021-01-06 15:03:14 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:03:14 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:03:14 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:03:14 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:03:28 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:03:28 INFO   - Configure base URI and base path
+2021-01-06 15:03:33 INFO   - Opening a new deck
+2021-01-06 15:03:45 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:03:45 INFO   - Configure base URI and base path
+2021-01-06 15:03:45 INFO   - Opening a new deck
+2021-01-06 15:03:47 INFO   - Opened deck is 92x1inyejm4j
+2021-01-06 15:03:47 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:03:48 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:03:48 INFO   - Opening a new deck
+2021-01-06 15:03:48 INFO   - Opened deck is khm0a7i7e1iv
+2021-01-06 15:03:48 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:03:48 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:03:48 INFO   - Opening a new deck
+2021-01-06 15:03:48 INFO   - Opened deck is n2yer8cdvpcu
+2021-01-06 15:03:48 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:03:48 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:03:48 INFO   - Opening a new deck
+2021-01-06 15:03:49 INFO   - Opened deck is o0v6doov326j
+2021-01-06 15:03:49 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:03:49 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:03:49 INFO   - Opening a new deck
+2021-01-06 15:03:49 INFO   - Opened deck is pu8tjgdmc7ra
+2021-01-06 15:03:49 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:03:49 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:03:49 INFO   - Opening a new deck
+2021-01-06 15:03:49 INFO   - Opened deck is n2wyu07ryix2
+2021-01-06 15:03:49 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:03:49 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:05:11 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:05:11 INFO   - Configure base URI and base path
+2021-01-06 15:05:11 INFO   - Opening a new deck
+2021-01-06 15:05:12 INFO   - Opened deck is snqk8ub7ept5
+2021-01-06 15:05:12 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:05:13 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:05:13 INFO   - Opening a new deck
+2021-01-06 15:05:13 INFO   - Opened deck is wtfsjr1r2o34
+2021-01-06 15:05:13 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:05:13 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:05:13 INFO   - Opening a new deck
+2021-01-06 15:05:14 INFO   - Opened deck is vnysex4y2xls
+2021-01-06 15:05:14 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:05:14 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:05:14 INFO   - Opening a new deck
+2021-01-06 15:05:14 INFO   - Opened deck is 08j436qf8wmj
+2021-01-06 15:05:14 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:05:14 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:05:14 INFO   - Opening a new deck
+2021-01-06 15:05:14 INFO   - Opened deck is nx0is98a75lu
+2021-01-06 15:05:14 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:05:14 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:05:14 INFO   - Opening a new deck
+2021-01-06 15:05:14 INFO   - Opened deck is lkgpouro3wlx
+2021-01-06 15:05:14 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:05:15 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:09:13 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:09:13 INFO   - Configure base URI and base path
+2021-01-06 15:09:13 INFO   - Opening a new deck
+2021-01-06 15:09:15 INFO   - Opened deck is 6a6k5k0p105k
+2021-01-06 15:09:15 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:09:16 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:09:16 INFO   - Opening a new deck
+2021-01-06 15:09:16 INFO   - Opened deck is 63i435wfls4y
+2021-01-06 15:09:16 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:09:16 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:09:16 INFO   - Opening a new deck
+2021-01-06 15:09:16 INFO   - Opened deck is 84iz5d0ckdtg
+2021-01-06 15:09:16 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:09:16 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:09:16 INFO   - Opening a new deck
+2021-01-06 15:09:16 INFO   - Opened deck is ps5yb6t7p55e
+2021-01-06 15:09:16 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:09:17 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:09:17 INFO   - Opening a new deck
+2021-01-06 15:09:17 INFO   - Opened deck is 8ur2dntmmjo3
+2021-01-06 15:09:17 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:09:17 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:09:17 INFO   - Opening a new deck
+2021-01-06 15:09:17 INFO   - Opened deck is d96yr9nrgokw
+2021-01-06 15:09:17 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:09:17 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:09:49 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:09:49 INFO   - Configure base URI and base path
+2021-01-06 15:09:49 INFO   - Opening a new deck
+2021-01-06 15:09:50 INFO   - Opened deck is zrrbz5h1vqkz
+2021-01-06 15:09:50 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:09:51 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:09:51 INFO   - Opening a new deck
+2021-01-06 15:09:51 INFO   - Opened deck is wvqpit1c6wms
+2021-01-06 15:09:51 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:09:51 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:09:51 INFO   - Opening a new deck
+2021-01-06 15:09:51 INFO   - Opened deck is 5vrvhbq5y59a
+2021-01-06 15:09:51 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:09:52 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:09:52 INFO   - Opening a new deck
+2021-01-06 15:09:52 INFO   - Opened deck is vybcfimfvitd
+2021-01-06 15:09:52 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:09:52 INFO   - Test testDrawOneOrMultiCards is FAILED
+2021-01-06 15:09:52 INFO   - Opening a new deck
+2021-01-06 15:09:52 INFO   - Opened deck is jklp1pss5yz2
+2021-01-06 15:09:52 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:09:52 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:09:52 INFO   - Opening a new deck
+2021-01-06 15:09:52 INFO   - Opened deck is 6h8d9u3vy0mq
+2021-01-06 15:09:52 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:09:52 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:10:24 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:10:24 INFO   - Configure base URI and base path
+2021-01-06 15:10:24 INFO   - Opening a new deck
+2021-01-06 15:10:26 INFO   - Opened deck is fy9mjf1kb7t1
+2021-01-06 15:10:26 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:10:27 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:10:27 INFO   - Opening a new deck
+2021-01-06 15:10:27 INFO   - Opened deck is qeslgxuxwe8b
+2021-01-06 15:10:27 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:10:27 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:10:27 INFO   - Opening a new deck
+2021-01-06 15:10:27 INFO   - Opened deck is qem92gp829oj
+2021-01-06 15:10:27 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:10:28 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:10:28 INFO   - Opening a new deck
+2021-01-06 15:10:28 INFO   - Opened deck is qqw14l29l8e7
+2021-01-06 15:10:28 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:10:28 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:10:28 INFO   - Opening a new deck
+2021-01-06 15:10:28 INFO   - Opened deck is wq89hmji8kxp
+2021-01-06 15:10:28 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:10:28 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:10:28 INFO   - Opening a new deck
+2021-01-06 15:10:28 INFO   - Opened deck is 1lj7rpeunzqk
+2021-01-06 15:10:28 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:10:28 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:10:58 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:10:58 INFO   - Configure base URI and base path
+2021-01-06 15:10:58 INFO   - Opening a new deck
+2021-01-06 15:11:04 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:11:04 INFO   - Configure base URI and base path
+2021-01-06 15:11:04 INFO   - Opening a new deck
+2021-01-06 15:11:06 INFO   - Opened deck is 8ub9lf9ps0mf
+2021-01-06 15:11:06 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:11:06 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:11:06 INFO   - Opening a new deck
+2021-01-06 15:11:07 INFO   - Opened deck is tu2eoxglmdpd
+2021-01-06 15:11:07 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:11:07 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:11:07 INFO   - Opening a new deck
+2021-01-06 15:11:07 INFO   - Opened deck is wjew2u6hls4i
+2021-01-06 15:11:07 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:11:07 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:11:07 INFO   - Opening a new deck
+2021-01-06 15:11:07 INFO   - Opened deck is pbihhatxoikd
+2021-01-06 15:11:07 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:11:08 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:11:08 INFO   - Opening a new deck
+2021-01-06 15:11:08 INFO   - Opened deck is dfvwqpyelgyx
+2021-01-06 15:11:08 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:11:08 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:11:08 INFO   - Opening a new deck
+2021-01-06 15:11:08 INFO   - Opened deck is 2l18y4rwe3em
+2021-01-06 15:11:08 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:11:08 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:11:23 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:11:23 INFO   - Configure base URI and base path
+2021-01-06 15:11:23 INFO   - Opening a new deck
+2021-01-06 15:11:37 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:11:37 INFO   - Configure base URI and base path
+2021-01-06 15:11:37 INFO   - Opening a new deck
+2021-01-06 15:11:38 INFO   - Opened deck is pyk69ywktoir
+2021-01-06 15:11:38 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:11:39 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:11:39 INFO   - Opening a new deck
+2021-01-06 15:11:39 INFO   - Opened deck is 2c0b2gjyluby
+2021-01-06 15:11:39 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:11:39 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:11:39 INFO   - Opening a new deck
+2021-01-06 15:11:39 INFO   - Opened deck is 54pu6ej2yqn7
+2021-01-06 15:11:39 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:11:39 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:11:39 INFO   - Opening a new deck
+2021-01-06 15:11:40 INFO   - Opened deck is 12n98p5l851u
+2021-01-06 15:11:40 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:11:40 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:11:40 INFO   - Opening a new deck
+2021-01-06 15:11:40 INFO   - Opened deck is saoo8ggnqkji
+2021-01-06 15:11:40 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:11:40 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:11:40 INFO   - Opening a new deck
+2021-01-06 15:11:40 INFO   - Opened deck is e5rl5o3ds0iz
+2021-01-06 15:11:40 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:11:40 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:12:32 INFO   - Test testDrawCardMultiTimes is SKIPPED
+2021-01-06 15:12:32 INFO   - Test testDrawCardWithoutParams is SKIPPED
+2021-01-06 15:12:32 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:12:32 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:12:32 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:12:32 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:12:43 INFO   - Test testDrawCardMultiTimes is SKIPPED
+2021-01-06 15:12:43 INFO   - Test testDrawCardWithoutParams is SKIPPED
+2021-01-06 15:12:43 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:12:43 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:12:43 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:12:43 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:12:54 INFO   - Test testDrawCardMultiTimes is SKIPPED
+2021-01-06 15:12:54 INFO   - Test testDrawCardWithoutParams is SKIPPED
+2021-01-06 15:12:54 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:12:54 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:12:54 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:12:54 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:13:04 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:13:04 INFO   - Configure base URI and base path
+2021-01-06 15:13:04 INFO   - Opening a new deck
+2021-01-06 15:13:06 INFO   - Opened deck is x7ldjl6dbzf3
+2021-01-06 15:13:06 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:13:07 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:13:07 INFO   - Opening a new deck
+2021-01-06 15:13:07 INFO   - Opened deck is rowfaxsnxo9l
+2021-01-06 15:13:07 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:13:07 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:13:07 INFO   - Opening a new deck
+2021-01-06 15:13:07 INFO   - Opened deck is de9d25eq0ucj
+2021-01-06 15:13:07 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:13:07 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:13:07 INFO   - Opening a new deck
+2021-01-06 15:13:07 INFO   - Opened deck is tngyklpe5uab
+2021-01-06 15:13:07 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:13:08 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:13:08 INFO   - Opening a new deck
+2021-01-06 15:13:08 INFO   - Opened deck is b1gs6qb1xoyq
+2021-01-06 15:13:08 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:13:08 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:13:08 INFO   - Opening a new deck
+2021-01-06 15:13:08 INFO   - Opened deck is xiayluk4exot
+2021-01-06 15:13:08 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:13:08 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:13:26 INFO   - Test testDrawCardMultiTimes is SKIPPED
+2021-01-06 15:13:26 INFO   - Test testDrawCardWithoutParams is SKIPPED
+2021-01-06 15:13:26 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:13:26 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:13:26 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:13:26 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:13:56 INFO   - Testing with environment: qa
+2021-01-06 15:13:56 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:13:56 INFO   - Configure base URI and base path
+2021-01-06 15:13:56 INFO   - Opening a new deck
+2021-01-06 15:13:58 INFO   - Opened deck is 0r5phgsscp8g
+2021-01-06 15:13:58 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:13:59 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:13:59 INFO   - Opening a new deck
+2021-01-06 15:13:59 INFO   - Opened deck is avhdlax78ldu
+2021-01-06 15:13:59 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:13:59 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:13:59 INFO   - Opening a new deck
+2021-01-06 15:13:59 INFO   - Opened deck is dxtn1190538x
+2021-01-06 15:13:59 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:13:59 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:13:59 INFO   - Opening a new deck
+2021-01-06 15:13:59 INFO   - Opened deck is 24jcm4ox0who
+2021-01-06 15:13:59 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:14:00 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:14:00 INFO   - Opening a new deck
+2021-01-06 15:14:00 INFO   - Opened deck is qwiush2szxgt
+2021-01-06 15:14:00 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:14:00 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:14:00 INFO   - Opening a new deck
+2021-01-06 15:14:00 INFO   - Opened deck is zp8319cz1iwd
+2021-01-06 15:14:00 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:14:00 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:14:09 INFO   - Testing with environment: qa
+2021-01-06 15:14:09 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:14:09 INFO   - Configure base URI and base path
+2021-01-06 15:14:09 INFO   - Opening a new deck
+2021-01-06 15:14:11 INFO   - Opened deck is apsrhv75g68r
+2021-01-06 15:14:11 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:14:12 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:14:12 INFO   - Opening a new deck
+2021-01-06 15:14:12 INFO   - Opened deck is n2i5o5eawec2
+2021-01-06 15:14:12 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:14:12 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:14:12 INFO   - Opening a new deck
+2021-01-06 15:14:12 INFO   - Opened deck is 2a34kmu80y1s
+2021-01-06 15:14:12 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:14:12 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:14:12 INFO   - Opening a new deck
+2021-01-06 15:14:12 INFO   - Opened deck is sx5jnlr1uxt0
+2021-01-06 15:14:12 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:14:13 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:14:13 INFO   - Opening a new deck
+2021-01-06 15:14:13 INFO   - Opened deck is ne24qjq9g8kj
+2021-01-06 15:14:13 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:14:13 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:14:13 INFO   - Opening a new deck
+2021-01-06 15:14:13 INFO   - Opened deck is kg8br997nxag
+2021-01-06 15:14:13 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:14:13 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:14:45 INFO   - Testing with environment: qa
+2021-01-06 15:14:45 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:14:45 INFO   - Configure base URI and base path
+2021-01-06 15:14:45 INFO   - Opening a new deck
+2021-01-06 15:14:48 INFO   - Opened deck is zuzeule742p1
+2021-01-06 15:14:48 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:14:48 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:14:48 INFO   - Opening a new deck
+2021-01-06 15:14:48 INFO   - Opened deck is on4gusupmyo3
+2021-01-06 15:14:48 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:14:49 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:14:49 INFO   - Opening a new deck
+2021-01-06 15:14:49 INFO   - Opened deck is nrpjcoro7qqx
+2021-01-06 15:14:49 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:14:49 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:14:49 INFO   - Opening a new deck
+2021-01-06 15:14:49 INFO   - Opened deck is p2wyskdf0hfm
+2021-01-06 15:14:49 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:14:49 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:14:49 INFO   - Opening a new deck
+2021-01-06 15:14:49 INFO   - Opened deck is 4yaw18shar0h
+2021-01-06 15:14:49 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:14:50 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:14:50 INFO   - Opening a new deck
+2021-01-06 15:14:50 INFO   - Opened deck is e12svpej87wf
+2021-01-06 15:14:50 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:14:50 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:15:32 INFO   - Testing with environment: qa
+2021-01-06 15:15:32 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:15:32 INFO   - Configure base URI and base path
+2021-01-06 15:15:32 INFO   - Opening a new deck
+2021-01-06 15:15:34 INFO   - Opened deck is ggvp1s16fi4h
+2021-01-06 15:15:34 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:15:34 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:15:34 INFO   - Opening a new deck
+2021-01-06 15:15:34 INFO   - Opened deck is 7n1fnq3q45mi
+2021-01-06 15:15:34 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:15:34 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:15:34 INFO   - Opening a new deck
+2021-01-06 15:15:34 INFO   - Opened deck is k5s321svaaaq
+2021-01-06 15:15:34 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:15:35 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:15:35 INFO   - Opening a new deck
+2021-01-06 15:15:35 INFO   - Opened deck is 3zh039f3rfdn
+2021-01-06 15:15:35 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:15:35 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:15:35 INFO   - Opening a new deck
+2021-01-06 15:15:35 INFO   - Opened deck is eh2ykmx81nyr
+2021-01-06 15:15:35 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:15:35 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:15:35 INFO   - Opening a new deck
+2021-01-06 15:15:35 INFO   - Opened deck is 4fybdqsqonxj
+2021-01-06 15:15:35 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:15:36 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:15:51 INFO   - Testing with environment: qa
+2021-01-06 15:15:51 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:15:51 INFO   - Configure base URI and base path
+2021-01-06 15:15:51 INFO   - Opening a new deck
+2021-01-06 15:15:53 INFO   - Opened deck is ihzgge0wv1yq
+2021-01-06 15:15:53 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:15:54 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:15:54 INFO   - Opening a new deck
+2021-01-06 15:15:54 INFO   - Opened deck is 2i0ym3v0w7ok
+2021-01-06 15:15:54 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:15:54 INFO   - Test testDrawCardWithoutParams is FAILED
+2021-01-06 15:15:54 INFO   - Opening a new deck
+2021-01-06 15:15:54 INFO   - Opened deck is avg2guhhnszh
+2021-01-06 15:15:54 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:15:54 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:15:54 INFO   - Opening a new deck
+2021-01-06 15:15:54 INFO   - Opened deck is pjx3h6mjb4ts
+2021-01-06 15:15:54 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:15:55 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:15:55 INFO   - Opening a new deck
+2021-01-06 15:15:55 INFO   - Opened deck is ber4ospo9onh
+2021-01-06 15:15:55 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:15:55 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:15:55 INFO   - Opening a new deck
+2021-01-06 15:15:55 INFO   - Opened deck is pfrr2ncc27ny
+2021-01-06 15:15:55 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:15:55 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:24:46 INFO   - Test testDrawCardMultiTimes is SKIPPED
+2021-01-06 15:24:46 INFO   - Test testDrawCardWithoutParams is SKIPPED
+2021-01-06 15:24:46 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:24:46 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:24:46 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:24:46 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:25:00 INFO   - Testing with environment: qa
+2021-01-06 15:25:00 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:25:00 INFO   - Configure base URI and base path
+2021-01-06 15:25:00 INFO   - Opening a new deck
+2021-01-06 15:25:02 INFO   - Opened deck is jyos8leo6ww6
+2021-01-06 15:25:02 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:25:02 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:25:02 INFO   - Opening a new deck
+2021-01-06 15:25:02 INFO   - Opened deck is gejfxwu2wq7s
+2021-01-06 15:25:02 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:25:03 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:25:03 INFO   - Opening a new deck
+2021-01-06 15:25:03 INFO   - Opened deck is og1gehzzf8sl
+2021-01-06 15:25:03 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:25:03 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:25:03 INFO   - Opening a new deck
+2021-01-06 15:25:03 INFO   - Opened deck is e8vsg08eqb1m
+2021-01-06 15:25:03 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:25:03 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:25:03 INFO   - Opening a new deck
+2021-01-06 15:25:03 INFO   - Opened deck is m397ath3xwug
+2021-01-06 15:25:03 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:25:04 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:25:04 INFO   - Opening a new deck
+2021-01-06 15:25:04 INFO   - Opened deck is i9jvsq21dv2x
+2021-01-06 15:25:04 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:25:04 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:25:12 INFO   - Testing with environment: dev
+2021-01-06 15:25:12 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:25:12 INFO   - Configure base URI and base path
+2021-01-06 15:25:12 INFO   - Opening a new deck
+2021-01-06 15:25:14 INFO   - Test testDrawCardMultiTimes is SKIPPED
+2021-01-06 15:25:14 INFO   - Test testDrawCardWithoutParams is SKIPPED
+2021-01-06 15:25:14 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:25:14 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:25:14 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:25:14 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 15:25:40 INFO   - Testing with environment: dev
+2021-01-06 15:25:40 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:25:40 INFO   - Configure base URI and base path
+2021-01-06 15:25:40 INFO   - Opening a new deck
+2021-01-06 15:25:41 INFO   - Opened deck is pgh4w1nuk6bv
+2021-01-06 15:25:41 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:25:42 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:25:42 INFO   - Opening a new deck
+2021-01-06 15:25:42 INFO   - Opened deck is 6d3c46dfuxla
+2021-01-06 15:25:42 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:25:42 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:25:42 INFO   - Opening a new deck
+2021-01-06 15:25:42 INFO   - Opened deck is 3fmmgsrtsqt5
+2021-01-06 15:25:42 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:25:42 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:25:42 INFO   - Opening a new deck
+2021-01-06 15:25:43 INFO   - Opened deck is yg7m3k9e09q7
+2021-01-06 15:25:43 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:25:43 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:25:43 INFO   - Opening a new deck
+2021-01-06 15:25:43 INFO   - Opened deck is yh6r24deyn6u
+2021-01-06 15:25:43 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:25:43 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:25:43 INFO   - Opening a new deck
+2021-01-06 15:25:43 INFO   - Opened deck is tedi96d44x3j
+2021-01-06 15:25:43 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:25:43 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:25:54 INFO   - Testing with environment: dev
+2021-01-06 15:25:54 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:25:54 INFO   - Configure base URI and base path
+2021-01-06 15:25:54 INFO   - Opening a new deck
+2021-01-06 15:25:56 INFO   - Opened deck is 1rx12oixtcjd
+2021-01-06 15:25:56 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:25:57 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:25:57 INFO   - Opening a new deck
+2021-01-06 15:25:57 INFO   - Opened deck is ekmmt2785d4k
+2021-01-06 15:25:57 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:25:57 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:25:57 INFO   - Opening a new deck
+2021-01-06 15:25:58 INFO   - Opened deck is 0yqck1dwf800
+2021-01-06 15:25:58 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:25:58 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:25:58 INFO   - Opening a new deck
+2021-01-06 15:25:58 INFO   - Opened deck is v9m602x3dowv
+2021-01-06 15:25:58 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:25:58 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:25:58 INFO   - Opening a new deck
+2021-01-06 15:25:58 INFO   - Opened deck is s72hrzuxhtd6
+2021-01-06 15:25:58 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:25:58 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:25:58 INFO   - Opening a new deck
+2021-01-06 15:25:59 INFO   - Opened deck is ujo63l0setri
+2021-01-06 15:25:59 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:25:59 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:29:40 INFO   - Testing with environment: dev
+2021-01-06 15:29:40 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 15:29:40 INFO   - Configure base URI and base path
+2021-01-06 15:29:40 INFO   - Opening a new deck
+2021-01-06 15:29:42 INFO   - Opened deck is bd1zd42e2iru
+2021-01-06 15:29:42 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 15:29:42 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 15:29:42 INFO   - Opening a new deck
+2021-01-06 15:29:42 INFO   - Opened deck is akuj9l75wo9n
+2021-01-06 15:29:42 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 15:29:43 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 15:29:43 INFO   - Opening a new deck
+2021-01-06 15:29:43 INFO   - Opened deck is dxusc3dbig1p
+2021-01-06 15:29:43 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:29:43 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:29:43 INFO   - Opening a new deck
+2021-01-06 15:29:43 INFO   - Opened deck is 8cc3ijprmlpi
+2021-01-06 15:29:43 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:29:43 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:29:43 INFO   - Opening a new deck
+2021-01-06 15:29:44 INFO   - Opened deck is 0frgsuiib9uc
+2021-01-06 15:29:44 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:29:44 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 15:29:44 INFO   - Opening a new deck
+2021-01-06 15:29:44 INFO   - Opened deck is 6gaw2e9ywzq6
+2021-01-06 15:29:44 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 15:29:44 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 16:07:49 INFO   - Test testDrawCardMultiTimes is SKIPPED
+2021-01-06 16:07:49 INFO   - Test testDrawCardWithoutParams is SKIPPED
+2021-01-06 16:07:49 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 16:07:49 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 16:07:49 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 16:07:49 INFO   - Test testDrawOneOrMultiCards is SKIPPED
+2021-01-06 16:08:26 INFO   - Testing with environment: qa
+2021-01-06 16:08:26 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 16:08:26 INFO   - Configure base URI and base path
+2021-01-06 16:08:26 INFO   - Opening a new deck
+2021-01-06 16:08:28 INFO   - Opened deck is 9esn46s6jxa4
+2021-01-06 16:08:28 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 16:08:29 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 16:08:29 INFO   - Opening a new deck
+2021-01-06 16:08:29 INFO   - Opened deck is o5gnztyyl7pt
+2021-01-06 16:08:29 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 16:08:29 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 16:08:29 INFO   - Opening a new deck
+2021-01-06 16:08:29 INFO   - Opened deck is rsgb9p5lxvwi
+2021-01-06 16:08:29 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 16:08:29 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 16:08:29 INFO   - Opening a new deck
+2021-01-06 16:08:30 INFO   - Opened deck is gg50bbef4v2z
+2021-01-06 16:08:30 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 16:08:30 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 16:08:30 INFO   - Opening a new deck
+2021-01-06 16:08:30 INFO   - Opened deck is hp5x8lw54x9r
+2021-01-06 16:08:30 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 16:08:30 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 16:08:30 INFO   - Opening a new deck
+2021-01-06 16:08:30 INFO   - Opened deck is 16p3uzxh5lsk
+2021-01-06 16:08:30 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 16:08:30 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 16:09:11 INFO   - Testing with environment: dev
+2021-01-06 16:09:11 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 16:09:11 INFO   - Configure base URI and base path
+2021-01-06 16:09:11 INFO   - Opening a new deck
+2021-01-06 16:09:12 INFO   - Opened deck is bdm4chx3n4cw
+2021-01-06 16:09:12 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 16:09:13 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 16:09:13 INFO   - Opening a new deck
+2021-01-06 16:09:13 INFO   - Opened deck is 3t3rgrcitzw4
+2021-01-06 16:09:13 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 16:09:13 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 16:09:13 INFO   - Opening a new deck
+2021-01-06 16:09:14 INFO   - Opened deck is swoe5w0fwwdb
+2021-01-06 16:09:14 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 16:09:14 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 16:09:14 INFO   - Opening a new deck
+2021-01-06 16:09:14 INFO   - Opened deck is 6rga48w2tevo
+2021-01-06 16:09:14 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 16:09:14 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 16:09:14 INFO   - Opening a new deck
+2021-01-06 16:09:14 INFO   - Opened deck is j753xv2n8wtc
+2021-01-06 16:09:14 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 16:09:14 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 16:09:14 INFO   - Opening a new deck
+2021-01-06 16:09:15 INFO   - Opened deck is wa40vhezkg3o
+2021-01-06 16:09:15 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 16:09:15 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 16:12:15 INFO   - Testing with environment: qa
+2021-01-06 16:12:15 INFO   - Start Test_001_DeckEndpoints
+2021-01-06 16:12:15 INFO   - Configure base URI and base path
+2021-01-06 16:12:15 INFO   - Opening a new deck
+2021-01-06 16:12:17 INFO   - Opened deck is di3yxhttfbyy
+2021-01-06 16:12:17 INFO   - Start test: testDrawCardMultiTimes
+2021-01-06 16:12:17 INFO   - Test testDrawCardMultiTimes is PASSED
+2021-01-06 16:12:17 INFO   - Opening a new deck
+2021-01-06 16:12:17 INFO   - Opened deck is niqmwba71ww4
+2021-01-06 16:12:17 INFO   - Start test: testDrawCardWithoutParams
+2021-01-06 16:12:18 INFO   - Test testDrawCardWithoutParams is PASSED
+2021-01-06 16:12:18 INFO   - Opening a new deck
+2021-01-06 16:12:18 INFO   - Opened deck is 0jfzwgxznbho
+2021-01-06 16:12:18 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 16:12:18 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 16:12:18 INFO   - Opening a new deck
+2021-01-06 16:12:19 INFO   - Opened deck is 2kn7uop7jf1v
+2021-01-06 16:12:19 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 16:12:19 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 16:12:19 INFO   - Opening a new deck
+2021-01-06 16:12:19 INFO   - Opened deck is kq8r3njo974v
+2021-01-06 16:12:19 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 16:12:19 INFO   - Test testDrawOneOrMultiCards is PASSED
+2021-01-06 16:12:19 INFO   - Opening a new deck
+2021-01-06 16:12:19 INFO   - Opened deck is q288k1kxu60t
+2021-01-06 16:12:19 INFO   - Start test: testDrawOneOrMultiCards
+2021-01-06 16:12:19 INFO   - Test testDrawOneOrMultiCards is PASSED
